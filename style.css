@@ -37,3 +37,37 @@ body{
 #button2:hover{
     background-color: white;
 }
+
+.pic2{
+    height: 400px;
+    width: 700px;
+    border-radius: 50%;
+}
+
+.twoPic{
+    padding-left: 600px;
+}
+
+.button3{
+    padding-left: 800px;
+}
+
+#button1{
+    border-radius: 30%;
+    font-size: 30px;
+    background-color: rgb(231, 75, 75);
+}
+
+#button1:hover{
+    background-color: white;
+}
+
+#button0{
+    border-radius: 30%;
+    font-size: 30px;
+    background-color: rgb(231, 75, 75);
+}
+
+#button0:hover{
+    background-color: white;
+}
