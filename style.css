@@ -71,3 +71,18 @@ body{
 #button0:hover{
     background-color: white;
 }
+
+.pic3{
+    height: 400px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.threePic{
+    padding: 200px;
+}
+
+.info3{
+    padding-left: 500px;
+    padding-bottom: 100px;
+}
