@@ -23,3 +23,17 @@ body{
 .info2{
     font-size: 28px;
 }
+
+.button{
+    padding-left: 1010px;
+}
+
+#button2{
+    border-radius: 30%;
+    font-size: 30px;
+    background-color: rgb(231, 75, 75);
+}
+
+#button2:hover{
+    background-color: white;
+}
